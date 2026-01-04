@@ -1,0 +1,12 @@
+[root]
+
+sites=["site1","site2"]
+mon_site=https://backup.ofb.net/monitoring
+mon_usr=ofb
+mon_pwd=ofb
+#
+db_user=monitoring
+db_password=monitoring
+db_schema=monitoring
+db_host=localhost
+db_port=5432
